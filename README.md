@@ -1,1 +1,1 @@
-t.c contains day1 code
+Jingle code challenge
